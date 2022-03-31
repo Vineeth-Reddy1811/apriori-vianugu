@@ -36,7 +36,7 @@ D = []
 T = []
 
 # Reading and handling CSV dataset file.
-with open("20000-out1.csv", "r") as f:
+with open("1000-out1.csv", "r") as f:
     for line in f:
         T = []
         transactions += 1
